@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Poojitha
 
-<!--
-**Pooja29102920/Pooja29102920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (2nd Year) at Amrita Vishwa Vidyapeetham  
+💻 Passionate about problem-solving, logical thinking, and building strong fundamentals in computer science.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Interests
+
+- Java, Python (Basics)  
+- Data Structures & Algorithms  
+- DBMS  
+- Aptitude & Competitive Programming  
+- Logical Reasoning
+
+---
+
+## 🌱 Currently Learning
+
+- C programming  
+- Core Data Structures & Algorithms  
+- DBMS fundamentals and query optimization
+
+---
+
+## 💬 Personal Note
+
+I enjoy learning by doing — be it writing code, solving puzzles, or understanding how systems work.  
+Curiosity and consistency keep me moving forward.

@@ -25,5 +25,5 @@
 
 ## 💬 Personal Note
 
-I enjoy learning by doing — be it writing code, solving puzzles, or understanding how systems work.  
+I enjoy learning by doing - be it writing code, solving puzzles, or understanding how systems work.  
 Curiosity and consistency keep me moving forward.
